@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{944A6B7B-4AA8-4E8B-ADC9-A742964B90A8}|ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n.csproj|c:\\users\\hpatr\\desktop\\proyectopicgesti\u00F3nrecepci\u00F3n\\proyectopicgesti\u00F3nrecepci\u00F3n\\forms\\formregistroestiba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{944A6B7B-4AA8-4E8B-ADC9-A742964B90A8}|ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n.csproj|solutionrelative:proyectopicgesti\u00F3nrecepci\u00F3n\\forms\\formregistroestiba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944A6B7B-4AA8-4E8B-ADC9-A742964B90A8}|ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n.csproj|C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\proyectopicgesti\u00F3nrecepci\u00F3n\\forms\\formregistroestiba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944A6B7B-4AA8-4E8B-ADC9-A742964B90A8}|ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n.csproj|solutionrelative:proyectopicgesti\u00F3nrecepci\u00F3n\\forms\\formregistroestiba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944A6B7B-4AA8-4E8B-ADC9-A742964B90A8}|ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n.csproj|C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\proyectopicgesti\u00F3nrecepci\u00F3n\\forms\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{944A6B7B-4AA8-4E8B-ADC9-A742964B90A8}|ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n.csproj|solutionrelative:proyectopicgesti\u00F3nrecepci\u00F3n\\forms\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944A6B7B-4AA8-4E8B-ADC9-A742964B90A8}|ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n.csproj|C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\proyectopicgesti\u00F3nrecepci\u00F3n\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{944A6B7B-4AA8-4E8B-ADC9-A742964B90A8}|ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n.csproj|solutionrelative:proyectopicgesti\u00F3nrecepci\u00F3n\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944A6B7B-4AA8-4E8B-ADC9-A742964B90A8}|ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n.csproj|C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\proyectopicgesti\u00F3nrecepci\u00F3n\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{944A6B7B-4AA8-4E8B-ADC9-A742964B90A8}|ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n.csproj|solutionrelative:proyectopicgesti\u00F3nrecepci\u00F3n\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944A6B7B-4AA8-4E8B-ADC9-A742964B90A8}|ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n.csproj|C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\proyectopicgesti\u00F3nrecepci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944A6B7B-4AA8-4E8B-ADC9-A742964B90A8}|ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n.csproj|solutionrelative:proyectopicgesti\u00F3nrecepci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944A6B7B-4AA8-4E8B-ADC9-A742964B90A8}|ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n.csproj|C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\proyectopicgesti\u00F3nrecepci\u00F3n\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944A6B7B-4AA8-4E8B-ADC9-A742964B90A8}|ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n.csproj|solutionrelative:proyectopicgesti\u00F3nrecepci\u00F3n\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormRegistroEstiba.cs",
+              "DocumentMoniker": "C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormRegistroEstiba.cs",
+              "RelativeDocumentMoniker": "ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormRegistroEstiba.cs",
+              "ToolTip": "C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormRegistroEstiba.cs",
+              "RelativeToolTip": "ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormRegistroEstiba.cs",
+              "ViewState": "AgIAABwCAAAAAAAAAADwvxoCAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T19:16:02.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormRegistroEstiba.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormRegistroEstiba.cs",
+              "RelativeDocumentMoniker": "ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormRegistroEstiba.cs",
+              "ToolTip": "C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormRegistroEstiba.cs [Design]",
+              "RelativeToolTip": "ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormRegistroEstiba.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T18:32:49.329Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormCliente.cs",
+              "RelativeDocumentMoniker": "ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormCliente.cs",
+              "ToolTip": "C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormCliente.cs [Design]",
+              "RelativeToolTip": "ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T18:32:42.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormPrincipal.cs",
+              "RelativeToolTip": "ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormPrincipal.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIA2wEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:27:57.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "ProyectoPICGesti\u00F3nRecepci\u00F3n\\Forms\\FormPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:16:48.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoPICGesti\u00F3nRecepci\u00F3n\\Program.cs",
+              "ToolTip": "C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\Program.cs",
+              "RelativeToolTip": "ProyectoPICGesti\u00F3nRecepci\u00F3n\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:16:04.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\App.config",
+              "RelativeDocumentMoniker": "ProyectoPICGesti\u00F3nRecepci\u00F3n\\App.config",
+              "ToolTip": "C:\\Users\\hpatr\\Desktop\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\ProyectoPICGesti\u00F3nRecepci\u00F3n\\App.config",
+              "RelativeToolTip": "ProyectoPICGesti\u00F3nRecepci\u00F3n\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-14T07:15:50.747Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
